@@ -10,7 +10,6 @@ int main(){
   char cidade [20] = "Rio de janeiro";
   float area = 1200.25;
   float pib = 300.50;
-
   printf("Tipo da carta: %s.\n",tipo);
   printf("Estado: %s.\n",estado);
   printf("Codigo da carta: %s.\n",carta);
